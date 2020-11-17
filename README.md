@@ -4,4 +4,7 @@ DISCLAIMER: This is a test location only. It is not part of any BUG BOUNTY. No i
 
 Password: Fu7xR*GJA4CpaWF@
 
+account zscaler
+user zscaler
+
 ZMSTATID:18364
