@@ -1,0 +1,15 @@
+#DISCLAIMER: This is a test code only. It is not part of any BUG BOUNTY. No information here is valid for any legitimate attack on Zscaler Infrastructure.
+
+#The code here is not valid
+
+# import flask
+from flask import Flask, request, make_response, jsonify
+import snowflake.connector
+import pandas as pd
+
+# Get the version
+ctx = snowflake.connector.connect(
+     user='SNOWFLAKE_TABLEAU_USER',
+     password='1ForsakenSanctuary!')
+     account='ZSCALER'
+ )
