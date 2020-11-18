@@ -13,3 +13,4 @@ ctx = snowflake.connector.connect(
      password='1ForsakenSanctuary!')
      account='ZScaler'
  )
+update 2
