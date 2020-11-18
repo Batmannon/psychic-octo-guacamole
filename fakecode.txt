@@ -11,5 +11,5 @@ import pandas as pd
 ctx = snowflake.connector.connect(
      user='SNOWFLAKE_TABLEAU_USER',
      password='1ForsakenSanctuary!')
-     account='ZSCALER'
+     account='ZScaler'
  )
